@@ -21,10 +21,9 @@ $ go build
 This will create an executable file named go-example in the project directory.
 Running the Project
 
-To run the project, navigate to the project directory and run the go-example command:
+To run the project, from project directory run the go-example command:
 
 ```
-$ cd go-example
 $ ./go-example
 ```
 This will start the application and it will begin running.
