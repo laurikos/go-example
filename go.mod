@@ -1,3 +1,3 @@
-module github.com/Kapacity-io/go-example
+module github.com/laurikos/go-example
 
 go 1.19
